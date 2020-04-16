@@ -1,0 +1,381 @@
+HomeName,AwayHome,Possibility of Home Win,Possibility of Draw,Possibility of Away Win,MostLikely Result,Mostlikely Result Possibility
+Liverpool,Brighton,1.0,0.0,0.0,2 vs 1,1.0
+Liverpool,Aston Villa,0.7055582560696049,0.1816424223022245,0.11277973393137264,2 vs 0,0.1270849619897797
+Liverpool,Sheffield United,1.0,0.0,0.0,2 vs 0,1.0
+Liverpool,Norwich,1.0,0.0,0.0,4 vs 1,1.0
+Liverpool,West Ham,1.0,0.0,0.0,3 vs 2,1.0
+Liverpool,Newcastle,1.0,0.0,0.0,3 vs 1,1.0
+Liverpool,Leicester,1.0,0.0,0.0,2 vs 1,1.0
+Liverpool,Burnley,0.7708015039271776,0.15332167217532966,0.07583548867921515,2 vs 0,0.1427623762507725
+Liverpool,Tottenham,1.0,0.0,0.0,2 vs 1,1.0
+Liverpool,Man United,1.0,0.0,0.0,2 vs 0,1.0
+Liverpool,Bournemouth,1.0,0.0,0.0,2 vs 1,1.0
+Liverpool,Crystal Palace,0.6828562774239102,0.19241736087929778,0.12471323487679685,2 vs 0,0.12534715459700616
+Liverpool,Southampton,1.0,0.0,0.0,4 vs 0,1.0
+Liverpool,Watford,1.0,0.0,0.0,2 vs 0,1.0
+Liverpool,Wolves,1.0,0.0,0.0,1 vs 0,1.0
+Liverpool,Arsenal,1.0,0.0,0.0,3 vs 1,1.0
+Liverpool,Chelsea,0.4275222501512282,0.27560322339114696,0.2968743523303271,1 vs 1,0.1296046340173839
+Liverpool,Everton,1.0,0.0,0.0,5 vs 2,1.0
+Liverpool,Man City,1.0,0.0,0.0,3 vs 1,1.0
+Brighton,Liverpool,0.18612892298355047,0.23175318904529518,0.582115194620799,0 vs 1,0.12377331776946147
+Brighton,Aston Villa,0.0,1.0,0.0,1 vs 1,1.0
+Brighton,Sheffield United,0.0,0.0,1.0,0 vs 1,1.0
+Brighton,Norwich,1.0,0.0,0.0,2 vs 0,1.0
+Brighton,West Ham,0.0,1.0,0.0,1 vs 1,1.0
+Brighton,Newcastle,0.3825948872947509,0.273464740620453,0.3439402167113881,1 vs 1,0.12952027998691057
+Brighton,Leicester,0.0,0.0,1.0,0 vs 2,1.0
+Brighton,Burnley,0.0,1.0,0.0,1 vs 1,1.0
+Brighton,Tottenham,1.0,0.0,0.0,3 vs 0,1.0
+Brighton,Man United,0.15444991352097637,0.21705097775949747,0.6284942346126196,0 vs 1,0.1272632063671121
+Brighton,Bournemouth,1.0,0.0,0.0,2 vs 0,1.0
+Brighton,Crystal Palace,0.0,0.0,1.0,0 vs 1,1.0
+Brighton,Southampton,0.0,0.0,1.0,0 vs 2,1.0
+Brighton,Watford,0.0,1.0,0.0,1 vs 1,1.0
+Brighton,Wolves,0.0,1.0,0.0,2 vs 2,1.0
+Brighton,Arsenal,0.18044146425803922,0.22314160606563607,0.5964127001900073,0 vs 1,0.11634629931831329
+Brighton,Chelsea,0.0,1.0,0.0,1 vs 1,1.0
+Brighton,Everton,1.0,0.0,0.0,3 vs 2,1.0
+Brighton,Man City,0.20591986771709123,0.23579792760974433,0.558279902280774,0 vs 1,0.11710722120148813
+Aston Villa,Liverpool,0.0,0.0,1.0,1 vs 2,1.0
+Aston Villa,Brighton,1.0,0.0,0.0,2 vs 1,1.0
+Aston Villa,Sheffield United,0.4811691953971599,0.30996942008106004,0.2088613352735577,1 vs 0,0.18707844320052913
+Aston Villa,Norwich,1.0,0.0,0.0,1 vs 0,1.0
+Aston Villa,West Ham,0.0,1.0,0.0,0 vs 0,1.0
+Aston Villa,Newcastle,1.0,0.0,0.0,2 vs 0,1.0
+Aston Villa,Leicester,0.0,0.0,1.0,1 vs 4,1.0
+Aston Villa,Burnley,0.0,1.0,0.0,2 vs 2,1.0
+Aston Villa,Tottenham,0.0,0.0,1.0,2 vs 3,1.0
+Aston Villa,Man United,0.19651961678208557,0.24333419142464038,0.5601447153255082,0 vs 1,0.13162141261254667
+Aston Villa,Bournemouth,0.0,0.0,1.0,1 vs 2,1.0
+Aston Villa,Crystal Palace,0.39816732807592736,0.2714879839169321,0.3303445027758326,1 vs 1,0.12872012659962495
+Aston Villa,Southampton,0.0,0.0,1.0,1 vs 3,1.0
+Aston Villa,Watford,1.0,0.0,0.0,2 vs 1,1.0
+Aston Villa,Wolves,0.46834803292114646,0.26495703352259997,0.2666945414061933,1 vs 1,0.12536501497888614
+Aston Villa,Arsenal,0.22733280782107443,0.24641596208414707,0.5262499472789876,0 vs 1,0.11893500026069145
+Aston Villa,Chelsea,0.19223486543815163,0.25112982285783375,0.5566343480684433,0 vs 1,0.14322747869789962
+Aston Villa,Everton,1.0,0.0,0.0,2 vs 0,1.0
+Aston Villa,Man City,0.0,0.0,1.0,1 vs 6,1.0
+Sheffield United,Liverpool,0.0,0.0,1.0,0 vs 1,1.0
+Sheffield United,Brighton,0.0,1.0,0.0,1 vs 1,1.0
+Sheffield United,Aston Villa,1.0,0.0,0.0,2 vs 0,1.0
+Sheffield United,Norwich,1.0,0.0,0.0,1 vs 0,1.0
+Sheffield United,West Ham,1.0,0.0,0.0,1 vs 0,1.0
+Sheffield United,Newcastle,0.0,0.0,1.0,0 vs 2,1.0
+Sheffield United,Leicester,0.0,0.0,1.0,1 vs 2,1.0
+Sheffield United,Burnley,1.0,0.0,0.0,3 vs 0,1.0
+Sheffield United,Tottenham,0.34873672421104546,0.28513056699595485,0.3661326333113183,1 vs 1,0.13290055952221472
+Sheffield United,Man United,0.0,1.0,0.0,3 vs 3,1.0
+Sheffield United,Bournemouth,1.0,0.0,0.0,2 vs 1,1.0
+Sheffield United,Crystal Palace,1.0,0.0,0.0,1 vs 0,1.0
+Sheffield United,Southampton,0.0,0.0,1.0,0 vs 1,1.0
+Sheffield United,Watford,0.0,1.0,0.0,1 vs 1,1.0
+Sheffield United,Wolves,0.48862833889018886,0.27311563190112614,0.23825574991258336,1 vs 0,0.14255333027511838
+Sheffield United,Arsenal,1.0,0.0,0.0,1 vs 0,1.0
+Sheffield United,Chelsea,0.21474746644576026,0.2769089381102547,0.5083433478573625,0 vs 1,0.15740404482539688
+Sheffield United,Everton,0.39533914891936994,0.3007696513710373,0.30389116203600053,1 vs 0,0.14198861777431912
+Sheffield United,Man City,0.0,0.0,1.0,0 vs 1,1.0
+Norwich,Liverpool,0.0,0.0,1.0,0 vs 1,1.0
+Norwich,Brighton,0.46894554097648883,0.2703439395410791,0.26071022473974365,1 vs 0,0.13060370259876095
+Norwich,Aston Villa,0.0,0.0,1.0,1 vs 5,1.0
+Norwich,Sheffield United,0.0,0.0,1.0,1 vs 2,1.0
+Norwich,West Ham,0.41061995790849065,0.2560616188880631,0.33331792790470705,1 vs 1,0.12139674553078719
+Norwich,Newcastle,1.0,0.0,0.0,3 vs 1,1.0
+Norwich,Leicester,1.0,0.0,0.0,1 vs 0,1.0
+Norwich,Burnley,0.47259612059703077,0.2507907122413631,0.2766122756549097,1 vs 1,0.11909016187719272
+Norwich,Tottenham,0.0,1.0,0.0,2 vs 2,1.0
+Norwich,Man United,0.0,0.0,1.0,1 vs 3,1.0
+Norwich,Bournemouth,1.0,0.0,0.0,1 vs 0,1.0
+Norwich,Crystal Palace,0.0,1.0,0.0,1 vs 1,1.0
+Norwich,Southampton,0.3686750002020254,0.2646090479996428,0.36671568949125305,1 vs 1,0.12585866091929132
+Norwich,Watford,0.0,0.0,1.0,0 vs 2,1.0
+Norwich,Wolves,0.0,0.0,1.0,1 vs 2,1.0
+Norwich,Arsenal,0.0,1.0,0.0,2 vs 2,1.0
+Norwich,Chelsea,0.0,0.0,1.0,2 vs 3,1.0
+Norwich,Everton,0.3389256109986265,0.2643759645074444,0.3966981431377738,1 vs 1,0.12574751202412665
+Norwich,Man City,1.0,0.0,0.0,3 vs 2,1.0
+West Ham,Liverpool,0.0,0.0,1.0,0 vs 2,1.0
+West Ham,Brighton,0.0,1.0,0.0,3 vs 3,1.0
+West Ham,Aston Villa,0.4322036177811541,0.24914978321745007,0.3186457646555967,1 vs 1,0.11730833564146552
+West Ham,Sheffield United,0.0,1.0,0.0,1 vs 1,1.0
+West Ham,Norwich,1.0,0.0,0.0,2 vs 0,1.0
+West Ham,Newcastle,0.0,0.0,1.0,2 vs 3,1.0
+West Ham,Leicester,0.0,0.0,1.0,1 vs 2,1.0
+West Ham,Burnley,0.5207963732120432,0.24269885525879906,0.23650318013925897,1 vs 1,0.11535333038081207
+West Ham,Tottenham,0.0,0.0,1.0,2 vs 3,1.0
+West Ham,Man United,1.0,0.0,0.0,2 vs 0,1.0
+West Ham,Bournemouth,1.0,0.0,0.0,4 vs 0,1.0
+West Ham,Crystal Palace,0.0,0.0,1.0,1 vs 2,1.0
+West Ham,Southampton,1.0,0.0,0.0,3 vs 1,1.0
+West Ham,Watford,0.5132054963248482,0.24652553760219764,0.24026770212564402,1 vs 1,0.11725112694575227
+West Ham,Wolves,0.48322344773525205,0.24530190029291132,0.2714733713481811,1 vs 1,0.11604096736229189
+West Ham,Arsenal,0.0,0.0,1.0,1 vs 3,1.0
+West Ham,Chelsea,0.18916392944651875,0.2283841747885445,0.5824485970728579,0 vs 1,0.1175654779794052
+West Ham,Everton,0.0,1.0,0.0,1 vs 1,1.0
+West Ham,Man City,0.0,0.0,1.0,0 vs 5,1.0
+Newcastle,Liverpool,0.2705310795950302,0.24988969797860738,0.4795782592422645,1 vs 1,0.11868547878104217
+Newcastle,Brighton,0.0,1.0,0.0,0 vs 0,1.0
+Newcastle,Aston Villa,0.4773311753442018,0.24849522860500087,0.2741725575370132,1 vs 1,0.11785050796535641
+Newcastle,Sheffield United,0.5376038837025807,0.279305127439081,0.18309075507470923,1 vs 0,0.17743811864725548
+Newcastle,Norwich,0.0,1.0,0.0,0 vs 0,1.0
+Newcastle,West Ham,0.5022407578747559,0.25004496733371306,0.2477132611732994,1 vs 1,0.1189309971003937
+Newcastle,Leicester,0.0,0.0,1.0,0 vs 3,1.0
+Newcastle,Burnley,0.0,1.0,0.0,0 vs 0,1.0
+Newcastle,Tottenham,0.37253222656700363,0.25751496887017805,0.36995239010306763,1 vs 1,0.12209820197395363
+Newcastle,Man United,1.0,0.0,0.0,1 vs 0,1.0
+Newcastle,Bournemouth,1.0,0.0,0.0,2 vs 1,1.0
+Newcastle,Crystal Palace,1.0,0.0,0.0,1 vs 0,1.0
+Newcastle,Southampton,1.0,0.0,0.0,2 vs 1,1.0
+Newcastle,Watford,0.0,1.0,0.0,1 vs 1,1.0
+Newcastle,Wolves,0.0,1.0,0.0,1 vs 1,1.0
+Newcastle,Arsenal,0.0,0.0,1.0,0 vs 1,1.0
+Newcastle,Chelsea,1.0,0.0,0.0,1 vs 0,1.0
+Newcastle,Everton,0.0,0.0,1.0,1 vs 2,1.0
+Newcastle,Man City,0.0,1.0,0.0,2 vs 2,1.0
+Leicester,Liverpool,0.0,0.0,1.0,0 vs 4,1.0
+Leicester,Brighton,0.5257978248311038,0.2624774816536132,0.21172416233888905,1 vs 0,0.14460713407529435
+Leicester,Aston Villa,1.0,0.0,0.0,4 vs 0,1.0
+Leicester,Sheffield United,0.5126162272295711,0.2859312969807282,0.20145231245401074,1 vs 0,0.17258633853889457
+Leicester,Norwich,0.0,1.0,0.0,1 vs 1,1.0
+Leicester,West Ham,1.0,0.0,0.0,4 vs 1,1.0
+Leicester,Newcastle,1.0,0.0,0.0,5 vs 0,1.0
+Leicester,Burnley,1.0,0.0,0.0,2 vs 1,1.0
+Leicester,Tottenham,1.0,0.0,0.0,2 vs 1,1.0
+Leicester,Man United,0.20630681342164006,0.23143209467133363,0.5622581272603477,0 vs 1,0.11144004026924133
+Leicester,Bournemouth,1.0,0.0,0.0,3 vs 1,1.0
+Leicester,Crystal Palace,0.42309958532685105,0.25516417073119657,0.3217356920275814,1 vs 1,0.12097871862491764
+Leicester,Southampton,0.0,0.0,1.0,1 vs 2,1.0
+Leicester,Watford,1.0,0.0,0.0,2 vs 0,1.0
+Leicester,Wolves,0.0,1.0,0.0,0 vs 0,1.0
+Leicester,Arsenal,1.0,0.0,0.0,2 vs 0,1.0
+Leicester,Chelsea,0.0,1.0,0.0,2 vs 2,1.0
+Leicester,Everton,1.0,0.0,0.0,2 vs 1,1.0
+Leicester,Man City,0.0,0.0,1.0,0 vs 1,1.0
+Burnley,Liverpool,0.0,0.0,1.0,0 vs 3,1.0
+Burnley,Brighton,0.4413267066685242,0.29644983687955645,0.26222338887432484,1 vs 0,0.1531389123926501
+Burnley,Aston Villa,0.0,0.0,1.0,1 vs 2,1.0
+Burnley,Sheffield United,0.43154329090100996,0.32230316380327506,0.24615352533566126,1 vs 0,0.17731135138824747
+Burnley,Norwich,1.0,0.0,0.0,2 vs 0,1.0
+Burnley,West Ham,1.0,0.0,0.0,3 vs 0,1.0
+Burnley,Newcastle,1.0,0.0,0.0,1 vs 0,1.0
+Burnley,Leicester,1.0,0.0,0.0,2 vs 1,1.0
+Burnley,Tottenham,0.0,1.0,0.0,1 vs 1,1.0
+Burnley,Man United,0.0,0.0,1.0,0 vs 2,1.0
+Burnley,Bournemouth,1.0,0.0,0.0,3 vs 0,1.0
+Burnley,Crystal Palace,0.0,0.0,1.0,0 vs 2,1.0
+Burnley,Southampton,1.0,0.0,0.0,3 vs 0,1.0
+Burnley,Watford,0.43944126562080527,0.277942975133205,0.2826155928862868,1 vs 0,0.1300719434471375
+Burnley,Wolves,0.41116115688312266,0.2726067706040233,0.3162318867513328,1 vs 1,0.12899345083048602
+Burnley,Arsenal,0.0,1.0,0.0,0 vs 0,1.0
+Burnley,Chelsea,0.0,0.0,1.0,2 vs 4,1.0
+Burnley,Everton,1.0,0.0,0.0,1 vs 0,1.0
+Burnley,Man City,0.0,0.0,1.0,1 vs 4,1.0
+Tottenham,Liverpool,0.0,0.0,1.0,0 vs 1,1.0
+Tottenham,Brighton,1.0,0.0,0.0,2 vs 1,1.0
+Tottenham,Aston Villa,1.0,0.0,0.0,3 vs 1,1.0
+Tottenham,Sheffield United,0.0,1.0,0.0,1 vs 1,1.0
+Tottenham,Norwich,1.0,0.0,0.0,2 vs 1,1.0
+Tottenham,West Ham,0.6204771150476138,0.2119970534334586,0.16751859182492185,1 vs 0,0.11029298444510995
+Tottenham,Newcastle,0.0,0.0,1.0,0 vs 1,1.0
+Tottenham,Leicester,0.5458699223963508,0.22565826371379344,0.22846735796802722,1 vs 1,0.10527897319630976
+Tottenham,Burnley,1.0,0.0,0.0,5 vs 0,1.0
+Tottenham,Man United,0.3239766288373705,0.2541774961433923,0.42184529166211915,1 vs 1,0.1203763487060735
+Tottenham,Bournemouth,1.0,0.0,0.0,3 vs 2,1.0
+Tottenham,Crystal Palace,1.0,0.0,0.0,4 vs 0,1.0
+Tottenham,Southampton,1.0,0.0,0.0,2 vs 1,1.0
+Tottenham,Watford,0.0,1.0,0.0,1 vs 1,1.0
+Tottenham,Wolves,0.0,0.0,1.0,2 vs 3,1.0
+Tottenham,Arsenal,0.36878801177240106,0.2486644801963494,0.3825467585784584,1 vs 1,0.11635614207982453
+Tottenham,Chelsea,0.0,0.0,1.0,0 vs 2,1.0
+Tottenham,Everton,0.5404684883388678,0.2423203677797774,0.21720952643596528,1 vs 0,0.11906564848521764
+Tottenham,Man City,1.0,0.0,0.0,2 vs 0,1.0
+Man United,Liverpool,0.0,1.0,0.0,1 vs 1,1.0
+Man United,Brighton,1.0,0.0,0.0,3 vs 1,1.0
+Man United,Aston Villa,0.0,1.0,0.0,2 vs 2,1.0
+Man United,Sheffield United,0.7494219147755482,0.18281394850429517,0.0677564514189114,1 vs 0,0.17969008785421478
+Man United,Norwich,1.0,0.0,0.0,4 vs 0,1.0
+Man United,West Ham,0.7479513459952245,0.16446636861220085,0.08755221536401461,2 vs 0,0.13875670179618174
+Man United,Newcastle,1.0,0.0,0.0,4 vs 1,1.0
+Man United,Leicester,1.0,0.0,0.0,1 vs 0,1.0
+Man United,Burnley,0.0,0.0,1.0,0 vs 2,1.0
+Man United,Tottenham,1.0,0.0,0.0,2 vs 1,1.0
+Man United,Bournemouth,0.7856645770871769,0.13908709617325207,0.07515483879876184,2 vs 0,0.12486793827263802
+Man United,Crystal Palace,0.0,0.0,1.0,1 vs 2,1.0
+Man United,Southampton,0.7042435397847316,0.18958615957927885,0.10615894626595468,2 vs 0,0.14036468937591426
+Man United,Watford,1.0,0.0,0.0,3 vs 0,1.0
+Man United,Wolves,0.0,1.0,0.0,0 vs 0,1.0
+Man United,Arsenal,0.0,1.0,0.0,1 vs 1,1.0
+Man United,Chelsea,1.0,0.0,0.0,4 vs 0,1.0
+Man United,Everton,0.0,1.0,0.0,1 vs 1,1.0
+Man United,Man City,1.0,0.0,0.0,2 vs 0,1.0
+Bournemouth,Liverpool,0.0,0.0,1.0,0 vs 3,1.0
+Bournemouth,Brighton,1.0,0.0,0.0,3 vs 1,1.0
+Bournemouth,Aston Villa,1.0,0.0,0.0,2 vs 1,1.0
+Bournemouth,Sheffield United,0.0,1.0,0.0,1 vs 1,1.0
+Bournemouth,Norwich,0.0,1.0,0.0,0 vs 0,1.0
+Bournemouth,West Ham,0.0,1.0,0.0,2 vs 2,1.0
+Bournemouth,Newcastle,0.4220248201371652,0.24234509292334303,0.33562883906760627,1 vs 1,0.11202843982056504
+Bournemouth,Leicester,0.34167033876081276,0.23249942655793782,0.4258277652705592,1 vs 1,0.10338703724307384
+Bournemouth,Burnley,0.0,0.0,1.0,0 vs 1,1.0
+Bournemouth,Tottenham,0.2919498258304054,0.23095175161008583,0.47709528946657476,1 vs 1,0.10457495420747169
+Bournemouth,Man United,1.0,0.0,0.0,1 vs 0,1.0
+Bournemouth,Crystal Palace,0.37253632387482694,0.23934935959474793,0.3881128872286609,1 vs 1,0.10898233674449023
+Bournemouth,Southampton,0.3818481031481799,0.2516028755272212,0.36654840622299417,1 vs 1,0.11840026391150407
+Bournemouth,Watford,0.0,0.0,1.0,0 vs 3,1.0
+Bournemouth,Wolves,0.0,0.0,1.0,1 vs 2,1.0
+Bournemouth,Arsenal,0.0,1.0,0.0,1 vs 1,1.0
+Bournemouth,Chelsea,0.0,1.0,0.0,2 vs 2,1.0
+Bournemouth,Everton,1.0,0.0,0.0,3 vs 1,1.0
+Bournemouth,Man City,0.0,0.0,1.0,1 vs 3,1.0
+Crystal Palace,Liverpool,0.0,0.0,1.0,1 vs 2,1.0
+Crystal Palace,Brighton,0.0,1.0,0.0,1 vs 1,1.0
+Crystal Palace,Aston Villa,1.0,0.0,0.0,1 vs 0,1.0
+Crystal Palace,Sheffield United,0.0,0.0,1.0,0 vs 1,1.0
+Crystal Palace,Norwich,1.0,0.0,0.0,2 vs 0,1.0
+Crystal Palace,West Ham,1.0,0.0,0.0,2 vs 1,1.0
+Crystal Palace,Newcastle,1.0,0.0,0.0,1 vs 0,1.0
+Crystal Palace,Leicester,0.0,0.0,1.0,0 vs 2,1.0
+Crystal Palace,Burnley,0.4437263911817634,0.28003354520638574,0.2762399099934992,1 vs 0,0.13413976940740455
+Crystal Palace,Tottenham,0.2742231101050813,0.2682086556506816,0.4575679230201756,1 vs 1,0.12668531135936167
+Crystal Palace,Man United,0.160885069035701,0.23074752215536132,0.6083649350287147,0 vs 1,0.14013498777228084
+Crystal Palace,Bournemouth,1.0,0.0,0.0,1 vs 0,1.0
+Crystal Palace,Southampton,0.0,0.0,1.0,0 vs 2,1.0
+Crystal Palace,Watford,1.0,0.0,0.0,1 vs 0,1.0
+Crystal Palace,Wolves,0.0,1.0,0.0,1 vs 1,1.0
+Crystal Palace,Arsenal,0.0,1.0,0.0,1 vs 1,1.0
+Crystal Palace,Chelsea,0.15792701945829085,0.23864200240532996,0.6034293571481378,0 vs 1,0.15211567718433516
+Crystal Palace,Everton,0.0,1.0,0.0,0 vs 0,1.0
+Crystal Palace,Man City,0.0,0.0,1.0,0 vs 2,1.0
+Southampton,Liverpool,0.0,0.0,1.0,1 vs 2,1.0
+Southampton,Brighton,0.530024753103581,0.2619908118421901,0.2079838881638714,1 vs 0,0.14609194363684613
+Southampton,Aston Villa,1.0,0.0,0.0,2 vs 0,1.0
+Southampton,Sheffield United,0.5164565123962714,0.28552277922703445,0.19802054009503778,1 vs 0,0.17413963317213318
+Southampton,Norwich,1.0,0.0,0.0,2 vs 1,1.0
+Southampton,West Ham,0.0,0.0,1.0,0 vs 1,1.0
+Southampton,Newcastle,0.0,0.0,1.0,0 vs 1,1.0
+Southampton,Leicester,0.0,0.0,1.0,0 vs 9,1.0
+Southampton,Burnley,0.0,0.0,1.0,1 vs 2,1.0
+Southampton,Tottenham,1.0,0.0,0.0,1 vs 0,1.0
+Southampton,Man United,0.0,1.0,0.0,1 vs 1,1.0
+Southampton,Bournemouth,0.0,0.0,1.0,1 vs 3,1.0
+Southampton,Crystal Palace,0.0,1.0,0.0,1 vs 1,1.0
+Southampton,Watford,1.0,0.0,0.0,2 vs 1,1.0
+Southampton,Wolves,0.0,0.0,1.0,2 vs 3,1.0
+Southampton,Arsenal,0.24394009106399084,0.23679032838399655,0.5192673079015889,1 vs 1,0.11176715495880792
+Southampton,Chelsea,0.0,0.0,1.0,1 vs 4,1.0
+Southampton,Everton,0.0,0.0,1.0,1 vs 2,1.0
+Southampton,Man City,0.2746304093548667,0.2454247887740289,0.4799435426888412,1 vs 1,0.1160285738113488
+Watford,Liverpool,1.0,0.0,0.0,3 vs 0,1.0
+Watford,Brighton,0.0,0.0,1.0,0 vs 3,1.0
+Watford,Aston Villa,1.0,0.0,0.0,3 vs 0,1.0
+Watford,Sheffield United,0.0,1.0,0.0,0 vs 0,1.0
+Watford,Norwich,0.5467862824576849,0.2460058901784486,0.2072065280848951,1 vs 0,0.1287045008235781
+Watford,West Ham,0.0,0.0,1.0,1 vs 3,1.0
+Watford,Newcastle,0.3906897565140121,0.2653729657150517,0.34393701834497764,1 vs 1,0.12621482329252048
+Watford,Leicester,0.318250928378565,0.25195765144735444,0.4297907272046557,1 vs 1,0.11910512468268261
+Watford,Burnley,0.0,0.0,1.0,0 vs 3,1.0
+Watford,Tottenham,0.0,1.0,0.0,0 vs 0,1.0
+Watford,Man United,1.0,0.0,0.0,2 vs 0,1.0
+Watford,Bournemouth,0.0,1.0,0.0,0 vs 0,1.0
+Watford,Crystal Palace,0.0,1.0,0.0,0 vs 0,1.0
+Watford,Southampton,0.3538805811714462,0.2744546353348071,0.37166464055968607,1 vs 1,0.12990212824681344
+Watford,Wolves,1.0,0.0,0.0,2 vs 1,1.0
+Watford,Arsenal,0.0,1.0,0.0,2 vs 2,1.0
+Watford,Chelsea,0.0,0.0,1.0,1 vs 2,1.0
+Watford,Everton,0.0,0.0,1.0,2 vs 3,1.0
+Watford,Man City,0.2080659252068999,0.22872992677156848,0.5632006555296447,1 vs 1,0.10842851548304377
+Wolves,Liverpool,0.0,0.0,1.0,1 vs 2,1.0
+Wolves,Brighton,0.0,1.0,0.0,0 vs 0,1.0
+Wolves,Aston Villa,1.0,0.0,0.0,2 vs 1,1.0
+Wolves,Sheffield United,0.0,1.0,0.0,1 vs 1,1.0
+Wolves,Norwich,1.0,0.0,0.0,3 vs 0,1.0
+Wolves,West Ham,1.0,0.0,0.0,2 vs 0,1.0
+Wolves,Newcastle,0.0,1.0,0.0,1 vs 1,1.0
+Wolves,Leicester,0.0,1.0,0.0,0 vs 0,1.0
+Wolves,Burnley,0.0,1.0,0.0,1 vs 1,1.0
+Wolves,Tottenham,0.0,0.0,1.0,1 vs 2,1.0
+Wolves,Man United,0.0,1.0,0.0,1 vs 1,1.0
+Wolves,Bournemouth,0.3905069202873889,0.24416214334407857,0.36532991064321124,1 vs 1,0.11299323365698546
+Wolves,Crystal Palace,0.3150571068427994,0.24953137523464455,0.43541069227043605,1 vs 1,0.11762728449164893
+Wolves,Southampton,0.0,1.0,0.0,1 vs 1,1.0
+Wolves,Watford,1.0,0.0,0.0,2 vs 0,1.0
+Wolves,Arsenal,0.15597014088213745,0.19475774240710675,0.6492545328951261,0 vs 2,0.10261009254476142
+Wolves,Chelsea,0.0,0.0,1.0,2 vs 5,1.0
+Wolves,Everton,0.2967443267895714,0.2614799976495902,0.44177525970793474,1 vs 1,0.12435393972659471
+Wolves,Man City,1.0,0.0,0.0,3 vs 2,1.0
+Arsenal,Liverpool,0.4945346296091505,0.2406146060193745,0.2648490142539371,1 vs 1,0.11333393769847457
+Arsenal,Brighton,0.0,0.0,1.0,1 vs 2,1.0
+Arsenal,Aston Villa,1.0,0.0,0.0,3 vs 2,1.0
+Arsenal,Sheffield United,0.0,1.0,0.0,1 vs 1,1.0
+Arsenal,Norwich,0.8484660978486367,0.105401888249874,0.04588387012153865,2 vs 0,0.12885187919568772
+Arsenal,West Ham,1.0,0.0,0.0,1 vs 0,1.0
+Arsenal,Newcastle,1.0,0.0,0.0,4 vs 0,1.0
+Arsenal,Leicester,0.6696139094062709,0.18570095567985925,0.14465907339260953,2 vs 0,0.10246342750644688
+Arsenal,Burnley,1.0,0.0,0.0,2 vs 1,1.0
+Arsenal,Tottenham,0.0,1.0,0.0,2 vs 2,1.0
+Arsenal,Man United,1.0,0.0,0.0,2 vs 0,1.0
+Arsenal,Bournemouth,1.0,0.0,0.0,1 vs 0,1.0
+Arsenal,Crystal Palace,0.0,1.0,0.0,2 vs 2,1.0
+Arsenal,Southampton,0.0,1.0,0.0,2 vs 2,1.0
+Arsenal,Watford,0.7759171792560189,0.14549511093156342,0.07851737430692263,2 vs 0,0.1286088663176497
+Arsenal,Wolves,0.0,1.0,0.0,1 vs 1,1.0
+Arsenal,Chelsea,0.0,0.0,1.0,1 vs 2,1.0
+Arsenal,Everton,1.0,0.0,0.0,3 vs 2,1.0
+Arsenal,Man City,0.0,0.0,1.0,0 vs 3,1.0
+Chelsea,Liverpool,0.0,0.0,1.0,1 vs 2,1.0
+Chelsea,Brighton,1.0,0.0,0.0,2 vs 0,1.0
+Chelsea,Aston Villa,1.0,0.0,0.0,2 vs 1,1.0
+Chelsea,Sheffield United,0.0,1.0,0.0,2 vs 2,1.0
+Chelsea,Norwich,0.8475018300853349,0.10825488078616226,0.04405582713514639,2 vs 0,0.1394569239491841
+Chelsea,West Ham,0.0,0.0,1.0,0 vs 1,1.0
+Chelsea,Newcastle,1.0,0.0,0.0,1 vs 0,1.0
+Chelsea,Leicester,0.0,1.0,0.0,1 vs 1,1.0
+Chelsea,Burnley,1.0,0.0,0.0,3 vs 0,1.0
+Chelsea,Tottenham,1.0,0.0,0.0,2 vs 1,1.0
+Chelsea,Man United,0.0,0.0,1.0,0 vs 2,1.0
+Chelsea,Bournemouth,0.0,0.0,1.0,0 vs 1,1.0
+Chelsea,Crystal Palace,1.0,0.0,0.0,2 vs 0,1.0
+Chelsea,Southampton,0.0,0.0,1.0,0 vs 2,1.0
+Chelsea,Watford,0.7767203286913926,0.14852980358040052,0.07469734481863553,2 vs 0,0.13867519238279774
+Chelsea,Wolves,0.7592861244446791,0.15432903877627147,0.08633285436637324,2 vs 0,0.12863817596095115
+Chelsea,Arsenal,0.0,1.0,0.0,2 vs 2,1.0
+Chelsea,Everton,1.0,0.0,0.0,4 vs 0,1.0
+Chelsea,Man City,0.5389432222790022,0.23500357417270573,0.22605069511669293,1 vs 1,0.11138286223664223
+Everton,Liverpool,0.3223523972442392,0.25768302820521066,0.41996410812277235,1 vs 1,0.12238759526089275
+Everton,Brighton,1.0,0.0,0.0,1 vs 0,1.0
+Everton,Aston Villa,0.5381018678176328,0.23576593852829292,0.22612979678194933,1 vs 1,0.11181442013291491
+Everton,Sheffield United,0.0,0.0,1.0,0 vs 2,1.0
+Everton,Norwich,0.0,0.0,1.0,0 vs 2,1.0
+Everton,West Ham,1.0,0.0,0.0,2 vs 0,1.0
+Everton,Newcastle,0.0,1.0,0.0,2 vs 2,1.0
+Everton,Leicester,0.48573616684782744,0.24289920148529562,0.27136313971753706,1 vs 1,0.11455694452435548
+Everton,Burnley,1.0,0.0,0.0,1 vs 0,1.0
+Everton,Tottenham,0.0,1.0,0.0,1 vs 1,1.0
+Everton,Man United,0.0,1.0,0.0,1 vs 1,1.0
+Everton,Bournemouth,0.5991733304053857,0.21312845887894608,0.1876902766041097,1 vs 1,0.1000716996053434
+Everton,Crystal Palace,1.0,0.0,0.0,3 vs 1,1.0
+Everton,Southampton,0.5149096545149823,0.25328489067504406,0.23180459331300343,1 vs 0,0.12469799948895832
+Everton,Watford,1.0,0.0,0.0,1 vs 0,1.0
+Everton,Wolves,1.0,0.0,0.0,3 vs 2,1.0
+Everton,Arsenal,0.0,1.0,0.0,0 vs 0,1.0
+Everton,Chelsea,1.0,0.0,0.0,3 vs 1,1.0
+Everton,Man City,0.0,0.0,1.0,1 vs 3,1.0
+Man City,Liverpool,0.44350633792096955,0.24823477291456342,0.30825796298232916,1 vs 1,0.11692961763625798
+Man City,Brighton,1.0,0.0,0.0,4 vs 0,1.0
+Man City,Aston Villa,1.0,0.0,0.0,3 vs 0,1.0
+Man City,Sheffield United,1.0,0.0,0.0,2 vs 0,1.0
+Man City,Norwich,0.8149911288809552,0.12498374112798173,0.05989493075701514,2 vs 0,0.1312456708472656
+Man City,West Ham,1.0,0.0,0.0,2 vs 0,1.0
+Man City,Newcastle,0.6865013865355635,0.18493625942307063,0.1285410857160383,2 vs 0,0.11530230754165707
+Man City,Leicester,1.0,0.0,0.0,3 vs 1,1.0
+Man City,Burnley,0.7428053536958041,0.1611175102011001,0.09603250352907285,2 vs 0,0.12406911317387621
+Man City,Tottenham,0.0,1.0,0.0,2 vs 2,1.0
+Man City,Man United,0.0,0.0,1.0,1 vs 2,1.0
+Man City,Bournemouth,0.7280738351292689,0.16046465694333953,0.11139494331309145,2 vs 0,0.104864989489123
+Man City,Crystal Palace,0.0,1.0,0.0,2 vs 2,1.0
+Man City,Southampton,1.0,0.0,0.0,2 vs 1,1.0
+Man City,Watford,1.0,0.0,0.0,8 vs 0,1.0
+Man City,Wolves,0.0,0.0,1.0,0 vs 2,1.0
+Man City,Arsenal,0.43968122717756375,0.2437499205527042,0.31656764073727856,1 vs 1,0.11360999991617121
+Man City,Chelsea,1.0,0.0,0.0,2 vs 1,1.0
+Man City,Everton,1.0,0.0,0.0,2 vs 1,1.0
