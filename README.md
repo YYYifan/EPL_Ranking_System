@@ -37,11 +37,12 @@ run in the Terminal:
 
 - **Run the application**
 
-run the Main.java file
+run the Main.java file from src folder
 
 - **Rank table**
 
-![Result Image](src/Result/RankTable.png)
+- [Rank Table](./src/Result/EPL_RankingTable.csv)
+![Result Image](./src/Result/RankTable.png)
 
 ### Author
 
