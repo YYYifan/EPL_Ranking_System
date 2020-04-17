@@ -2,13 +2,13 @@
 
 This is the final project of INFO6205 Data Structure and Algorithm class.
 
-### Project Description
+## Project Description
 
 This project is aim to predict 2019/20 EPL final result. We use Poisson distribution to simulate the possible outcome of one match. To make this prediction more accurate, we also consider the home team advantage.
 
 The ranking system will generate the score for each match and give out the final rank table.
 
-### Project Structure
+## Project Structure
 
 - **Data**
 
@@ -23,7 +23,7 @@ The prediction process is in ```./src/SimulateEPL```
 
 The output of the ranking system is in ```./src/Result```
 
-### Getting Started
+## Getting Started
 
 - **Installing**
 
@@ -42,9 +42,10 @@ run the Main.java file from src folder
 - **Rank table**
 
 - [Rank Table](./src/Result/EPL_RankingTable.csv)
+
 ![Result Image](./src/Result/RankTable.png)
 
-### Author
+## Author
 
 | Name        | NUID      |
 | ----------- | --------- |
