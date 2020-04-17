@@ -28,7 +28,7 @@ The output of the ranking system is in ```./src/Result```
 
 ##### Installing
 
-software: intelliJ IDEA
+software: 
 running environment: java8
 
 ##### Clone
