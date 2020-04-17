@@ -12,7 +12,8 @@ The ranking system will generate the score for each match and give out the final
 
 - **Data**
 
- The data we used in this ranking system is in ```./src/datasets```
+ The data we used in this ranking system is in ```./src/datasets``` 
+ which is referenced from http://www.football-data.co.uk/englandm.php
 
 - **Prediction**
 
@@ -26,19 +27,21 @@ The output of the ranking system is in ```./src/Result```
 
 #### Prerequisites
 
-##### Installing
+- **Installing**
 
 software: 
 running environment: java8
 
-##### Clone
+- **Clone**
 
 run in the Terminal:
 ```git clone https://github.com/YYYifan/EPL_Ranking_System.git```
 
-#### Run the application
+- **Run the application**
 
+run the Main.java file
 
+- **Rank table**
 
 
 
