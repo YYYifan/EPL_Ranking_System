@@ -25,8 +25,6 @@ The output of the ranking system is in ```./src/Result```
 
 ### Getting Started
 
-#### Prerequisites
-
 - **Installing**
 
 software: 
@@ -43,7 +41,7 @@ run the Main.java file
 
 - **Rank table**
 
-
+![image](http://github.com/YYYifan/EPL_Ranking_System/tree/master/src/Result/RankTable.png)
 
 ### Author
 
