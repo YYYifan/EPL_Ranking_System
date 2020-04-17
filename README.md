@@ -41,7 +41,7 @@ run the Main.java file
 
 - **Rank table**
 
-![image](https://github.com/YYYifan/EPL_Ranking_System/tree/master/src/Result/RankTable.png)
+![image](src/Result/RankTable.png)
 
 ### Author
 
