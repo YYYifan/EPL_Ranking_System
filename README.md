@@ -41,7 +41,7 @@ run the Main.java file
 
 - **Rank table**
 
-![image](src/Result/RankTable.png)
+![Result Image](src/Result/RankTable.png)
 
 ### Author
 
