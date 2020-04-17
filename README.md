@@ -39,7 +39,7 @@ run in the Terminal:
 
 run the Main.java file from src folder
 
-- **Rank table**(./src/Result/EPL_RankingTable.csv)
+- [Rank Table](./src/Result/EPL_RankingTable.csv)
 
 ![Result Image](./src/Result/RankTable.png)
 
